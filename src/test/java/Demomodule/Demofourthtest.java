@@ -8,6 +8,7 @@ public class Demofourthtest {
 	public void demofourthtest()
 	{
 		System.out.println("REgres 2");
+		System.out.println("REgres 4");
 		String BROWSER = System.getProperty("Browser");
 		String URL = System.getProperty("Url");
 		System.out.println(BROWSER);
